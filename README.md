@@ -14,8 +14,8 @@ This project demonstrates positioning elements (like bottom-right placement), cl
 ---
 
 ## 📂 Project Structure
-├── index.html # Main HTML file
-├── style.css # Stylesheet
+├── index.html # Main HTML file  
+├── style.css # Stylesheet  
 └── README.md # Project documentation
 
 ---
@@ -27,18 +27,18 @@ This project demonstrates positioning elements (like bottom-right placement), cl
    git clone https://github.com/Diyashri19/dentytech-landing-page.git
    cd dentytech-landing-page
    
-Run the project
-Simply open index.html in your browser.
+Run the project.  
+Simply open index.html in your browser.  
 
 ---
 
-🛠️ Built With
-HTML5
+🛠️ Built With  
+HTML5  
 CSS3
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
+🤝 Contributing  
+Contributions, issues, and feature requests are welcome!  
 Feel free to fork this repo and submit a pull request.
 
-📜 License
+📜 License  
 This project is licensed under the MIT License.
