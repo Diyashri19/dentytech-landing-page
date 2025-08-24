@@ -1,6 +1,6 @@
 # DentyTech Landing Page
 
-A simple and modern **landing page** built using **HTML** and **CSS**.  
+A simple and modern landing page built using **HTML** and **CSS**.  
 This project demonstrates positioning elements (like bottom-right placement), clean styling, and layout basics.
 
 ---
@@ -18,18 +18,23 @@ This project demonstrates positioning elements (like bottom-right placement), cl
 ├── style.css # Stylesheet
 └── README.md # Project documentation
 
+---
+
 ## 💻 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Diyashri19/dentytech-landing-page.git
-cd dentytech-landing-page
-### 2.Run the project
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Diyashri19/dentytech-landing-page.git
+   cd dentytech-landing-page
+   
+Run the project
 Simply open index.html in your browser.
 
+---
+
 🛠️ Built With
--HTML5
--CSS3
+HTML5
+CSS3
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
