@@ -8,7 +8,7 @@ This project demonstrates positioning elements (like bottom-right placement), cl
 ## 🚀 Features
 - Responsive design  
 - Simple and clean UI  
-- Positioned elements (bottom-right demo)  
+- Positioned elements(bottom-right demo)  
 - Beginner-friendly HTML & CSS  
 
 ---
